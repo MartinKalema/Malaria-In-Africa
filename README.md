@@ -1,4 +1,6 @@
-# Malaria in Africa Data Science Project
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+
+## Malaria in Africa Data Science Project
 
 ## Project Overview
 
@@ -20,8 +22,14 @@ This data science project is aimed at analyzing and understanding the prevalence
 
 7. **Recommendations**: Provide actionable recommendations for policymakers and healthcare organizations to improve malaria control and prevention strategies in Africa.
 
-## Data Sources
+## Dataset Link
 
-- [World Bank Open Data](https://data.worldbank.org/)
+This dataset was obtained from Kaggle. Click this link[World Bank Open Data](https://data.worldbank.org/)
+
+## Installation
+Clone this repository into your current working directory using this bash command
+```
+git clone https://github.com/MartinKalema/Malaria-In-Africa-Data-Science-Project
+```
 
 
